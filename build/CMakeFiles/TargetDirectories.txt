@@ -1,0 +1,3 @@
+/home/computeruse/libnut-core/build/CMakeFiles/libnut.dir
+/home/computeruse/libnut-core/build/CMakeFiles/edit_cache.dir
+/home/computeruse/libnut-core/build/CMakeFiles/rebuild_cache.dir
